@@ -1,0 +1,14 @@
+.order-details {
+    width: 80%;
+    padding: 2rem;
+}
+
+.upper-content {
+    display: flex;
+    padding: 2rem 0;
+    justify-content: space-between;
+}
+
+.upper-content button {
+    margin-left: 1rem;
+}

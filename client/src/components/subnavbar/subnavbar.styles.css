@@ -1,0 +1,40 @@
+.sidenav li, p {
+    color: rgb(118, 118, 118);
+}
+
+.sidenav {
+    padding: 2rem 1rem;
+    border-right: 1px solid grey;
+}
+
+.user-profile-content {
+    display: flex;
+    align-items: center;
+}
+.user-content {
+    padding: 0 1rem;
+    line-height: 20px;
+}
+
+.user-content h3{
+    font-weight: 500;
+}
+
+.user-img {
+    height: 3rem;
+    border-radius: 100px;
+}
+
+.nav-container {
+    margin-top: 2rem;
+    padding: 0 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 80vh;
+}
+.sub-nav-option li{
+    padding: .5rem 0;
+    list-style: none;
+}
+
