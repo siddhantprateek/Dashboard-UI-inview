@@ -11,4 +11,16 @@
 
 .upper-content button {
     margin-left: 1rem;
+    padding: .5rem;
+    background: white;
+    border: 1px solid grey;
+    cursor: pointer;
+    color: grey;
+    border-radius: 5px;
+}
+
+.upper-content button:hover {
+    border: 1px solid #0c2f57;
+    color: #0c2f57;
+    font-weight: 600;
 }
